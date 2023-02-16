@@ -4,4 +4,4 @@ const codeloccol = {
     tails: 1,
     friends: ['Codeloccol Campers'],
 };
-console.log(codeloccol.friends[0]);
+console.log("'" + codeloccol.friends[0] + "'");
